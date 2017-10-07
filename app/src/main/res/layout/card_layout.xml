@@ -1,0 +1,110 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+<android.support.v7.widget.CardView
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
+    android:layout_gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="120dp"
+    card_view:cardCornerRadius="4dp"
+    card_view:cardElevation="2dp"
+    card_view:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:id="@+id/card_main_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <LinearLayout
+            android:id="@+id/card_detail_top"
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="30dp">
+
+
+            <TextView
+                android:id="@+id/info_text"
+                android:layout_width="0dp"
+                android:layout_weight=".30"
+                android:layout_height="match_parent"/>
+
+            <TextView
+                android:id="@+id/currency_desc"
+                android:layout_width="0dp"
+                android:layout_weight=".70"
+                android:layout_height="match_parent"
+                android:paddingTop="5dp"
+                android:textAlignment="textEnd"/>
+
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/card_detail_bottom"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+
+            <LinearLayout
+                android:id="@+id/currency_option_layout"
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/currencyflag"
+                    android:layout_width="50dp"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/us"/>
+
+                <!--
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/cn"/>-->
+
+                <TextView
+                    android:id="@+id/currencyCode"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:text="CHN"
+                    android:textSize="20sp"
+                    android:padding="5dp"/>
+
+
+                <ImageView
+                    android:layout_width="15dp"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/arrow_down"/>
+            </LinearLayout>
+
+
+            <TextView
+                android:id="@+id/currency_amount"
+                android:layout_width="0dp"
+                android:layout_weight=".50"
+                android:layout_height="wrap_content"
+                android:paddingTop="5dp"
+                android:text="0"
+                android:textSize="30dp"
+                android:textAlignment="textEnd"
+                android:scrollHorizontally="true"/>
+
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>
+
+</merge>

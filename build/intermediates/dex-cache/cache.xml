@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/budi/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalc/app/build/intermediates/pre-dexed/debug/glide-3.7.0_e203f8bf155cad483256abd9d7d9cbf7a69035eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/budi/.android/build-cache/65f8a938feb7f187ebbe665425e7f7d502eee5e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalc/app/build/intermediates/pre-dexed/debug/classes_5b0d26a8a68e088dd7e79383528bd98c6927e4ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/budi/.android/build-cache/5968cabd7ef9b1e411eb25ab052991ebb22c91a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalc/app/build/intermediates/pre-dexed/debug/classes_cf7b4f63ca9781e405faec1ab13657c6a28c803b.jar" />
+    </item>
+
+</items>

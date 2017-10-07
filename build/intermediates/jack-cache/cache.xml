@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/budi/.android/build-cache/196aea609b25ac6a3616752809fd4d511e007cc8/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-3522631ff3896cea0362c4206ecd68f9a9b3db54.jar" />
+    </item>
+    <item
+        jar="/Users/budi/.android/build-cache/63c73bbe978ca23f99aa9ec44ee6a52587a759bf/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-1e27ec3ef420522324031ecb034d14c30e36e8c1.jar" />
+    </item>
+    <item
+        jar="/Users/budi/.android/build-cache/f71402fee9d0e3f6601cbf17247139cff844bf95/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-515c6804bf6f4eb6d6f8eed3e8b3617df3031935.jar" />
+    </item>
+    <item
+        jar="/Users/budi/work/Android/Android-IDE-mac/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-25.3.1-ef238a773a1030f643393ad3cb38f1e2e74d9356.jar" />
+    </item>
+    <item
+        jar="/Users/budi/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        revision="26.0.0"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/converter-gson-2.3.0-0c3871e8f51fb92f12345bdbb2047b2ddf27db21.jar" />
+    </item>
+    <item
+        jar="/Users/budi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        revision="26.0.0"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okhttp-3.8.0-78505463aa8388f3e064674c3d8580f3d618b6a3.jar" />
+    </item>
+    <item
+        jar="/Users/budi/work/Android/Android-IDE-mac/sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="26.0.0"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-2d8da94522365f0669a6892eac12184d156dd2b7.jar" />
+    </item>
+    <item
+        jar="/Users/budi/.android/build-cache/c4af8c95a367784b4ef02562342e8df1a27c83e4/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-48f1a75d5f3819fe45c7618b43ba3645f6c3d9e6.jar" />
+    </item>
+    <item
+        jar="/Users/budi/.android/build-cache/4631d5c5622a054497213019b3e83262945f58c4/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-2efc3e14d2a8d6a05c3b9d5ad9962932794bb7a2.jar" />
+    </item>
+    <item
+        jar="/Users/budi/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        revision="26.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/glide-3.7.0-e203f8bf155cad483256abd9d7d9cbf7a69035eb.jar" />
+    </item>
+    <item
+        jar="/Users/budi/.android/build-cache/49398e0c0e9bf32052ae1a4d38f9ce5e5a531a42/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-858fb19fd52262f8ba4093dd1ef041109ee1021f.jar" />
+    </item>
+    <item
+        jar="/Users/budi/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        revision="26.0.0"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/retrofit-2.3.0-ec7838a9f9de9d72c1a16ea4d48095463c5078d0.jar" />
+    </item>
+    <item
+        jar="/Users/budi/.gradle/caches/modules-2/files-2.1/org.parceler/parceler-api/1.1.6/2a06b6b1ecf5dadee8a874dfb51ad018fde3e6c5/parceler-api-1.1.6.jar"
+        revision="26.0.0"
+        sha1="2a06b6b1ecf5dadee8a874dfb51ad018fde3e6c5">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/parceler-api-1.1.6-8b3f318e0636d496fb1762c494860bc97832f4e7.jar" />
+    </item>
+    <item
+        jar="/Users/budi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        revision="26.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okio-1.13.0-c3f2fc7b12cd90e7be45849fb2944f351ce5145f.jar" />
+    </item>
+    <item
+        jar="/Users/budi/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        revision="26.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/gson-2.8.0-41b7b66d128169c15e05dd34330fe597be484dcf.jar" />
+    </item>
+    <item
+        jar="/Users/budi/.android/build-cache/5968cabd7ef9b1e411eb25ab052991ebb22c91a0/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-cf7b4f63ca9781e405faec1ab13657c6a28c803b.jar" />
+    </item>
+    <item
+        jar="/Users/budi/.android/build-cache/c2548c763081a3353bebfd0f565d260ea6f3eb3f/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-6f1fa4ab2eb320ceca282e0493540f0e6b7dcc55.jar" />
+    </item>
+    <item
+        jar="/Users/budi/.android/build-cache/b2b1aa2556ca8a7ef189573e2156129b00f66fdf/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-0c90c4527c4f9a5fe81095233af840cf07e2af3c.jar" />
+    </item>
+    <item
+        jar="/Users/budi/.android/build-cache/89290abf5ce24898f89b7050c2f1ab97fb50e5b4/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-21e80630df32040a9cc6732c49964135f3db6442.jar" />
+    </item>
+    <item
+        jar="/Users/budi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.8.0/f765f004f3e201bd6ad0904266e605d7fb776d5/logging-interceptor-3.8.0.jar"
+        revision="26.0.0"
+        sha1="0f765f004f3e201bd6ad0904266e605d7fb776d5">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/logging-interceptor-3.8.0-100d6b580155443450083aa2ad4422d5ebe59f58.jar" />
+    </item>
+    <item
+        jar="/Users/budi/.android/build-cache/82d10bcee57bfceae00318981cf9421547335d53/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-8a97acdb6ae3470ca09ab6db087e6262f42a3366.jar" />
+    </item>
+    <item
+        jar="/Users/budi/.android/build-cache/65f8a938feb7f187ebbe665425e7f7d502eee5e4/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-5b0d26a8a68e088dd7e79383528bd98c6927e4ef.jar" />
+    </item>
+    <item
+        jar="/Users/budi/.android/build-cache/847f73e9a5b3ee0a3702efa011285b41c3b34ca9/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-55a06b4242e108568e46cbd944df337bb1016eb0.jar" />
+    </item>
+    <item
+        jar="/Users/budi/work/Android/Android-IDE-mac/sdk/platforms/android-25/android.jar"
+        revision="26.0.0"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-1316d8d1a514eaed232067cd3045a897490244e5.jar" />
+    </item>
+    <item
+        jar="/Users/budi/.android/build-cache/cb0c5aee78f5172e4653189a5c7429bc422cf0d1/output/jars/classes.jar"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/budi/work/Android/Android-Workspace/CurrencyCalculator-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-fe1e1364e8b7f55857af6e0d54841d286e504969.jar" />
+    </item>
+
+</items>

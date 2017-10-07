@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_currency_hint">Enter the currency</string>
+
+    <string name="i_have_str">I have</string>
+    <string name="i_want_str">I want</string>
+
+    <string name="i_have_amount_str">I have amount of</string>
+    <string name="i_want_to_change_for_str">I want to change for</string>
+
+</resources>
